@@ -1,0 +1,14 @@
+major_version=10
+minor_version=0
+build_version=1title=Ditty TV | Americana Music TV
+subtitle=FREE Live 24/7 Americana & Roots Music Television
+access_key=MTUx-MzlmMDQyNjNkMzNhYmVkNGZhYWJhNzMxYTY2MTA4NTIxNTkxNzBiNA__
+base_url=http://www.findstep.com/client/
+mm_icon_focus_hd=pkg:/images/mm_icon_focus_hd.jpg
+mm_icon_side_hd=pkg:/images/mm_icon_side_hd.jpg
+mm_icon_focus_sd=pkg:/images/mm_icon_focus_sd.jpg
+mm_icon_side_sd=pkg:/images/mm_icon_side_sd.jpg
+splash_screen_sd=pkg:/images/splash_screen_sd.jpg
+splash_screen_hd=pkg:/images/splash_screen_hd.jpg
+splash_min_time=12
+splash_color=pkg:/images/#000000
